@@ -1,0 +1,6 @@
+{
+  "name": "Frostpine Plow: Cozy Alpine Snow Clearing",
+  "description": "A cozy 3D isometric snow-plowing game with truck upgrades, combo multipliers, winter hazards, and procedural synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
